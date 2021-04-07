@@ -16,4 +16,4 @@ client.on("ready", () => {
     };
   });
 
- client.login("ODIxMzkwMDM5NDA5ODg1MTg0.YFDBFg.rylf2GpXIzEhkQwtY8zisxoYFfs");
+ client.login("Token Secreto");
