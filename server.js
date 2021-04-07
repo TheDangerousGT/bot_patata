@@ -28,4 +28,4 @@ client.on("ready", () => {
     };
   });
 
- client.login("ODIxMzkwMDM5NDA5ODg1MTg0.YFDBFg.ro-_2wTuPblIgnfciwaAlLSEp3U");
+ client.login("Token Secreto");
